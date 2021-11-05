@@ -60,4 +60,4 @@ bot.on('message', async message => {
 //============================================================================================================================================================================================================
 
 
-bot.login(ODc2MjMxNzEyMjk0NzAzMTQ0.YRhEXw.FCzw-3uI6F9A_xL8eba990TFoh8);
+client.login("ODc2MjMxNzEyMjk0NzAzMTQ0.YRhEXw.FCzw-3uI6F9A_xL8eba990TFoh8")
